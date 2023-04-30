@@ -9,7 +9,7 @@ Basic functions of the product: This is a map application, which will take two i
  <li> Website link: https://developer.mapquest.com/ </li>
  <li> Login to the OpenAI website and create your own key</li>
  <li> Website link: https://platform.openai.com/account/api-keys </li>
-<ul>
+</ul>
 
 # Required packages to install:
 <ul>
