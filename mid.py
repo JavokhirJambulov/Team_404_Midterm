@@ -9,10 +9,6 @@ import openai
 window = Tk()
 window.geometry("1920x1080")
 
-# set the background image of the window
-background_image=PhotoImage('E:\1')
-background_label = Label(window, image=background_image)
-background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
 # set up the OpenAI API key and initialize a message list
 openai.api_key = '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'
