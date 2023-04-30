@@ -12,7 +12,7 @@ window.geometry("1920x1080")
 
 
 # set up the OpenAI API key and initialize a message list
-openai.api_key = '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'
+openai.api_key = 'Enter your OpenAI key'
 messages = [ {"role": "system", "content":
               "You are a intelligent assistant."} ]
 
